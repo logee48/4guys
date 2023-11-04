@@ -19,7 +19,7 @@ body{
     transition: width 0.2s;
 }
 .sidebar:hover{
-    width: 160px;
+    width: 200px;
     overflow: visible;
 }
 img.logo{
@@ -27,7 +27,7 @@ img.logo{
     padding: 0 4px;
     margin: 30px 0;
 }
-nav{
+nav #sliderr{
     height: 60vh;
     min-height: 300px;
 }
